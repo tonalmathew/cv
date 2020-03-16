@@ -1,0 +1,17 @@
+body{
+    background-color: #bff5f5;
+}
+hr{
+    
+    border-style:none;
+    height: 2px;
+    background-color: white;
+
+}
+h1, h3{
+    color: #3f8b8b;
+}
+img{
+    height: 200px;
+    width: 200px;
+}
